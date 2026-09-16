@@ -1,4 +1,4 @@
-# Hi, I'm Mindy.
+# Hello, I'm Mindy.
 
 I deploy enterprise AI systems for Fortune 500 media companies by day — RAG pipelines, agent platforms, the unglamorous work of getting an AI system from proof-of-concept to something 3,000 people actually use. Outside of that I build small, finished things, mostly to answer questions I was curious about myself.
 
