@@ -6,12 +6,14 @@ CS & Data Science, NYU. Based in New York.
 
 ## Things I've built
 
-- **[career-fit](https://github.com/mindyjwu/career-fit)** — a job-search tool I built because LinkedIn's filters don't actually work. Give it a job posting and my profile, it returns a real multi-dimensional fit score with a narrative explanation, not a keyword match.
-- **[Stock Advisor](https://github.com/mindyjwu/stock_advisor)** — a multi-user investing dashboard with transparent, explainable scoring instead of a black-box "buy" button.
-- **[GenAI](https://gender-ai.vercel.app)** — two AI personas, different communication styles, and a report on which one you actually trust more.
-- **[Global Explorer](https://global-explorer-ivory.vercel.app)** — a 3D globe for browsing 1,100+ cities, built because most travel sites bury the fun part under login walls.
-- **[Mood Wall](https://mindy-portfolio.vercel.app/mood.html)** — name a feeling, or a place, and get back real art, books, music, and film that match it. Nothing generated — every card is something you can actually go find.
-- **[SIGNAL](https://mindy-portfolio.vercel.app/signal.html)** — a live feed that turns AI industry news into short, sourced reads instead of another feed to scroll past.
+- **[The AI Ecosystem](https://ai-eco-diagram.vercel.app)** — an interactive map of about 410 companies across 29 layers of AI, from the apps people use down to chips, fabs and raw materials. [Repo](https://github.com/mindyjwu/ai-eco-diagram).
+- **[Quantum Playground](https://quantum-playground-five.vercel.app)** — a hands-on first look at quantum computing: adaptive lessons, 12 circuit puzzles with proven-minimal answers, and Python labs on real IBM hardware. [Repo](https://github.com/mindyjwu/quantum-playground).
+- **[SIGNAL](https://mindy-portfolio.vercel.app/signal.html)** — AI and tech news across 16 industries as short, sourced reads, refreshed daily.
+- **[Mood Wall](https://mindy-portfolio.vercel.app/mood.html)** — name a feeling and get real art, books, music and film that match it; every pick is checked against a real source.
+- **[Stock Advisor](https://github.com/mindyjwu/stock_advisor)** — scores stocks on fundamentals, technicals and news sentiment, then grades its own calls. Educational, not advice.
+- **[tutorial-forge](https://github.com/mindyjwu/tutorial-forge)** — turns a plain-English request into a narrated how-to video for any web app, and catches when the app changes.
+
+GenAI, Global Explorer and the rest are on the [portfolio](https://mindy-portfolio.vercel.app).
 
 ## Elsewhere
 
