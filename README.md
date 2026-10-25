@@ -17,4 +17,4 @@ GenAI, Global Explorer and the rest are on the [portfolio](https://mindy-portfol
 
 ## Elsewhere
 
-[Full portfolio](https://mindy-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/mindyjwu)
+[Full portfolio](https://mindy-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mindyjwu/)
